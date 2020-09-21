@@ -1,6 +1,5 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
-
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+# #100DaysOfCode Log - Round 1 - [kamal latwal]
+after a long time i solved my first problem on hackerearth using python.
 
 ## Log
 
