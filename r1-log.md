@@ -8,3 +8,6 @@ after a long time i solved my first problem on hackerearth using python.setted u
 
 ### R1D2
 relearned basics of html5 on freecodecamp.org and solved one python problem on hackerearth.
+
+### R1D3
+learned basics of CSS on freecodecamp.org.
