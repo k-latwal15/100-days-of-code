@@ -19,3 +19,12 @@
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 2. https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/
+
+### Day 3: september 23, wednesday
+
+**Today's Progress**:learned the basics of CSS on freecodecamp.org 
+
+**thoughts** learned the basics of CSS today.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
