@@ -12,7 +12,7 @@
 1. https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-vs-koba/
 
 ### Day 2: september 22, tuesday
-**Today's Progress**: quick gone through the basics of html5 on freecodecamp.org and solved a hackerearth problem
+**Today's Progress**: quickly gone through the basics of html5 on freecodecamp.org and solved a hackerearth problem
 
 **thoughts** spent some time recalling html tags and their specifications.
 
@@ -28,3 +28,16 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
+
+### Day 4: september 24, thursday
+
+**Today's Progress**: learned the basics(margin, padding, borders) of CSS on freecodecamp.org and solved two hackerearth problems using python.
+
+**thoughts** used map function in python, how to take multiply inputs simultaneously and how to split it.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units
+2. https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/
+3. https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/
+ 
+
