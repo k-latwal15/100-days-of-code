@@ -11,3 +11,6 @@ relearned basics of html5 on freecodecamp.org and solved one python problem on h
 
 ### R1D3
 learned basics of CSS on freecodecamp.org.
+
+### R1D4
+learned the basics of CSS on freecodecamp.org and solved two hackerearth problems using python3.
