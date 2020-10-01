@@ -40,4 +40,14 @@
 2. https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/
 3. https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/
  
+### Day 5: october 1 , thursday
+
+**Today's Progress**:completed basics of CSS from freecodecamp.org and learned python: (a) list  (b) dictionary (c) set along with examples.
+
+**thoughts**: i wasn't able to dedicate my time for this challenge due to some other aspects that requires my attention and some dilemmas.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables
+2. https://www.hackerearth.com/practice/python/working-with-data/dictionary/practice-problems/
+3. https://www.hackerearth.com/practice/python/working-with-data/lists/tutorial/
 
