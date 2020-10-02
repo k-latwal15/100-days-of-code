@@ -17,3 +17,6 @@ learned the basics of CSS on freecodecamp.org and solved two hackerearth problem
 
 ### R1D5
 completed the CSS basics on freecodecamp.org and learned python: (a) list  (b) dictionary (c) set , along with the examples. 
+
+### R1D6
+completed CSS flexbox and responsive design principles on freecodecamp.
