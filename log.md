@@ -51,3 +51,8 @@
 2. https://www.hackerearth.com/practice/python/working-with-data/dictionary/practice-problems/
 3. https://www.hackerearth.com/practice/python/working-with-data/lists/tutorial/
 
+### Day 6: october 2, friday
+
+**Today's Progress**: learned responsive web design principles and CSS flexbox.
+
+**thoughts**: learning these things easy today, need to practice more python problems as well.
