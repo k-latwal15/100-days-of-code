@@ -20,3 +20,6 @@ completed the CSS basics on freecodecamp.org and learned python: (a) list  (b) d
 
 ### R1D6
 completed CSS flexbox and responsive design principles on freecodecamp.
+
+### R1D7
+solved two problems on hackerearth using python.
