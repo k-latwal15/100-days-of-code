@@ -55,4 +55,17 @@
 
 **Today's Progress**: learned responsive web design principles and CSS flexbox.
 
-**thoughts**: learning these things easy today, need to practice more python problems as well.
+**thoughts**: learning things are easy today, need to practice more python problems as well.
+
+### Day 7: october 8, thursday
+
+**Today's Progress**: learned some basic python program to have better command over the language.
+learning CSS flexbox further on freecodecamp. 
+
+**Thoughts**: I've been really messed up with my schedule, trying to be better each day.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed
+2. https://www.programiz.com/python-programming/examples/hcf
+
+
