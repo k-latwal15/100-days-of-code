@@ -68,4 +68,13 @@ learning CSS flexbox further on freecodecamp.
 1. https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed
 2. https://www.programiz.com/python-programming/examples/hcf
 
+### Day 8: october 9, friday
+
+**Today's Progress**: completed CSS flexbox on freecodecamp. 
+
+**Thoughts**: tried to gain some insights of how things works in flexbox.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
+
 
