@@ -26,3 +26,8 @@ done some basic python programs.
 
 ### R1D8
 completed CSS flexbox in freecodecamp.
+
+### R1D9
+started cloning google homepage and also solved one problem on hackerearth.
+
+

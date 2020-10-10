@@ -77,4 +77,11 @@ learning CSS flexbox further on freecodecamp.
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
 
+### Day 9: october 10, saturday
 
+**Today's Progress**: started cloning google homepage. also solved one problem on hackerearth[monk and rotation]
+
+**Thoughts**: understanding how generator and iterators work in python.
+
+**Link(s) to work**
+1. https://www.hackerearth.com/practice/codemonk/
